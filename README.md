@@ -1,1 +1,1 @@
-# Finance-Previsao-Preco-Acoes-D-10
+# Prevendo os preços das ações até 10 dias a frente
